@@ -64,7 +64,7 @@ sys.path.append(import_path)
 
 import b
 
-b.Foo.test("Carrots") # expected output: "It work!"
+b.Foo.test("Carrots") # expected output: "It works!"
 
 
 """
